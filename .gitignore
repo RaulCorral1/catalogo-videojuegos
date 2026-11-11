@@ -1,0 +1,10 @@
+# Configuración de editores
+.idea/
+.vscode/
+
+# Dependencias de Node.js (lo usaremos enseguida)
+node_modules/
+
+# Archivos de entorno y logs
+.env
+*.log
